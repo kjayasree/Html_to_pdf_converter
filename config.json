@@ -1,0 +1,21 @@
+{
+    "DataBaseConfig": {
+        "Destination": "destination folder",
+        "Querydb": "your query to db",
+    
+        "Folders":{
+            "year16":2016,
+            "year17":2017,
+            "year18":2018
+        },
+        "BatchConfig": {
+            "batchSize": 10,
+            "snoozeTime": 10000
+        },
+        "Queries": [
+            "your query to db",
+            "your query to db"
+        ]  
+        
+    }
+}
