@@ -20,7 +20,7 @@
     "child_process": "^1.0.2",
     "express": "^4.17.0",
     "find-process": "^1.4.1",
-    "html-pdf": "^2.2.0",
+    "html-pdf": "^3.0.1",
     "msnodesqlv8": "^0.7.1",
     "mssql": "^5.1.0",
     "phantom": "^6.2.0",
